@@ -9,7 +9,7 @@ I like working across the full pipeline: SQL → Python → dashboards → a one
 ## What I've been building
 
 - 🏙️ **[Ask the City](https://github.com/Jiya4405/ask-the-city)** — hackathon project: an agent that answers questions about a city from live open-data portals, runs the queries, and fact-checks every number. Runs free on a local model.
-- 📸 **[FLASHBACK](https://github.com/Jiya4405/flashback-photobooth)** — a free, no-sign-up photo booth in the browser with filters and downloadable photo strips. Photos never leave your device (React, TypeScript, Vite).
+- 📸 **[FLASHBACK](https://github.com/Jiya4405/flashback-photobooth)** ([try it live](https://jiya4405.github.io/flashback-photobooth/)) — a free, no-sign-up photo booth in the browser with filters and downloadable photo strips. Photos never leave your device (React, TypeScript, Vite).
 - 📉 **[Retention Investigation Studio](https://github.com/Jiya4405/product-analytics-apm)** — product analytics case study ([live dashboard](https://jiya4405.github.io/product-analytics-apm/)) tracing a churn spike to a 2FA rollout with SQL cohort analysis.
 - 🚓 **Hackensack IMPACT – Crime Incident Dashboard** *(in progress)* — working with a faculty advisor and Hackensack Police Department stakeholders on a lightweight interactive web prototype: incident map, filterable statistics, and category breakdowns (HTML, CSS, JavaScript, Leaflet).
 - 🛒 **[Olist E-Commerce Analysis](https://github.com/Jiya4405/olist-ecommerce-analysis)** — end-to-end analysis of 99K+ Brazilian e-commerce orders across 9 relational tables: found on-time delivery linked to higher review scores (4.21 vs. 2.55/5) and a 3x regional delivery gap; interactive Dash dashboard and a business memo with concrete recommendations.
