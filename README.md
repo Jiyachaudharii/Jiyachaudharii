@@ -1,6 +1,6 @@
 # Hi, I'm Jiya Chaudhari 👋
 
-Computer Science student (Fairleigh Dickinson University, expected May 2027) focused on **data analytics, product analysis, and applied AI** — turning messy, real-world data and stakeholder requirements into clear, usable tools.
+Computer Science student (Fairleigh Dickinson University, expected May 2027) focused on **data analytics, and product analysis** — turning messy, real-world data and stakeholder requirements into clear, usable tools.
 
 I like working across the full pipeline: SQL → Python → dashboards → a one-page memo someone in a meeting will actually read. I also enjoy building things people can use, from web apps to dashboards.
 
