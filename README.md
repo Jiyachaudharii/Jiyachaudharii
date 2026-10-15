@@ -1,13 +1,16 @@
 # Hi, I'm Jiya Chaudhari 👋
 
-Computer Science student (Fairleigh Dickinson University, expected May 2027) focused on **data analytics and product analysis** — turning messy, real-world data into decisions people can act on.
+AI-forward Computer Science student (Fairleigh Dickinson University, expected May 2027) focused on **data analytics, product analysis, and applied AI** — turning messy, real-world data and stakeholder requirements into clear, usable tools.
 
-I like working across the full pipeline: SQL → Python → dashboards → a one-page memo someone in a meeting will actually read.
+I like working across the full pipeline: SQL → Python → dashboards → a one-page memo someone in a meeting will actually read. Lately I also build Python and web prototypes to test how AI tools like ChatGPT, Claude, and Gemini hold up in real workflows — and where human review still matters.
+
+🌐 **Portfolio:** [jiya4405.github.io](https://jiya4405.github.io)
 
 ## What I've been building
 
-- 🛒 **[Olist E-Commerce Analysis](https://github.com/Jiya4405/olist-ecommerce-analysis)** — end-to-end analysis of 99K Brazilian e-commerce orders: SQL joins/window functions, a pandas-based investigation into delivery delays vs. customer reviews, an interactive Dash dashboard, and a business memo with concrete recommendations.
-- 📄 **[Resume–Job Matching AI](https://github.com/Jiya4405/resume-matcher)** — a live NLP tool ([demo](https://jiya-resume-matcher.streamlit.app)) that scores resume-to-job fit via semantic similarity and flags missing skills.
+- 🚓 **Hackensack IMPACT – Crime Incident Dashboard** *(in progress)* — working with a faculty advisor and Hackensack Police Department stakeholders on a lightweight interactive web prototype: incident map, filterable statistics, and category breakdowns (HTML, CSS, JavaScript, Leaflet).
+- 🛒 **[Olist E-Commerce Analysis](https://github.com/Jiya4405/olist-ecommerce-analysis)** — end-to-end analysis of 99K+ Brazilian e-commerce orders across 9 relational tables: found on-time delivery linked to higher review scores (4.21 vs. 2.55/5) and a 3x regional delivery gap; interactive Dash dashboard and a business memo with concrete recommendations.
+- 📄 **[Resume–Job Matching AI](https://github.com/Jiya4405/resume-matcher)** — a live NLP tool ([demo](https://jiya-resume-matcher.streamlit.app)) that compares resumes with job descriptions using a tracked library of 80+ skills, with a structured match score and matched / missing / additional skill breakdowns.
 - 📈 **[Nonprofit Program Impact & Data Quality Dashboard](https://github.com/Jiya4405/nonprofit-program-dashboard)** — an interactive Excel dashboard with a live filter, KPI tracking, and a data-quality monitoring view that flags incomplete records for follow-up.
 - 📊 Amazon Stock Price vs. Federal Funds Rate (1997–2024) — rolling-window regression and time-series visualization.
 - 🏦 Bank Marketing Data Analysis (PEP) — classification models and EDA for a predictive marketing pipeline.
@@ -16,15 +19,26 @@ I like working across the full pipeline: SQL → Python → dashboards → a one
 
 ## Currently
 
-- Teaching Assistant for **Big Data Analytics** and **Engineering Economics Analysis** at FDU — onboarding students, validating 50+ analytical models a semester, and translating technical output for non-technical audiences.
-- Completed the **McKinsey Forward Program**.
+- 🤖 **Research Assistant – Multi-Agent AI Systems** at FDU — exploring multi-agent workflows with **Model Context Protocol (MCP)** and **Agent-to-Agent (A2A)** communication, building Python prototypes to compare tool integration and agent coordination, and studying how AI outputs can be evaluated and improved through structured workflows and human review.
+- ⚡ **President, IEEE Student Chapter** at FDU — leading technical and career-development events with faculty and industry professionals.
+- 🧑‍🏫 Teaching Assistant for **Big Data Analytics** and **Engineering Economics Analysis** at FDU — reviewing analytical work from 30+ students a semester, catching data-quality issues, and translating technical output for non-technical audiences.
 
 ## Toolbox
 
-`Python` `SQL` `R` `Pandas` `Power BI` `Tableau` `Excel (Advanced)` `Firebase` `Git`
+**AI & Research:** `ChatGPT` `Claude` `Gemini` `MCP` `A2A` `AI-assisted research` `Model output evaluation`
+
+**Programming & Data:** `Python` `SQL` `JavaScript` `R` `Pandas` `NLP` `Database Design`
+
+**Web & Visualization:** `HTML` `CSS` `Leaflet` `Streamlit` `Dash/Plotly` `Tableau` `Power BI`
+
+**Business:** `Requirements Gathering` `Data Quality` `KPI Reporting` `Data Storytelling` `Excel (Pivot Tables, XLOOKUP, Data Validation)`
 
 **Focus areas:** EDA · predictive analytics · A/B testing · KPI/funnel analysis · data storytelling
 
+## Certifications
+
+McKinsey Forward Program · SQL for Data Analysis · Data Visualization: Storytelling · Advanced Python: Working with Data
+
 ## Let's connect
 
-📍 New York, NY · 📫 jiyachaudhary404@gmail.com
+📍 New York, NY · 📫 jiyachaudhary0404@gmail.com · 🌐 [jiya4405.github.io](https://jiya4405.github.io)
