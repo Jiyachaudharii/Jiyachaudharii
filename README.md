@@ -23,7 +23,7 @@ I like working across the full pipeline: SQL → Python → dashboards → a one
 ## Currently
 
 - 🤖 **Research Assistant – Multi-Agent AI Systems** at FDU — exploring multi-agent workflows with **Model Context Protocol (MCP)** and **Agent-to-Agent (A2A)** communication, building Python prototypes to compare tool integration and agent coordination, and studying how AI outputs can be evaluated and improved through structured workflows and human review.
-- ⚡ **Treasurer, IEEE Student Chapter** at FDU — leading technical and career-development events with faculty and industry professionals.
+- ⚡ **Treasurer, IEEE Student Chapter** at FDU — managing the chapter's budget, tracking expenses, and funding technical and career-development events.
 - 🧑‍🏫 Teaching Assistant for **Big Data Analytics** and **Engineering Economics Analysis** at FDU — reviewing analytical work from 30+ students a semester, catching data-quality issues, and translating technical output for non-technical audiences.
 
 ## Toolbox
